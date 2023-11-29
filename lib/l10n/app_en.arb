@@ -1,0 +1,23 @@
+{
+    "join": "Join",
+    "feed": "Feed",
+    "profile": "Profile",
+    "create": "Create",
+    "favs": "Favorite Posts:",
+    "clear": "Clear all",
+    "review": "Review",
+    "comments": "Comments",
+    "purple": "Purple",
+    "green": "Green",
+    "blue": "Blue",
+    "yellow": "Yellow",
+    "defaultA": "Default",
+    "textfield": "Type...",
+    "label": "Label",
+    "yourpost": "Your Post",
+    "type": "Type...",
+    "pleaseEnter":"Please enter text!",
+    "err": "Error",
+    "okay": "Okay",
+    "addComment": "Add Comment"
+}
